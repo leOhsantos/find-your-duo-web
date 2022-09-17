@@ -5,6 +5,9 @@ module.exports = {
     './index.html'
   ],
   theme: {
+    screens: {
+      'mobile': { 'max': '999px' }
+    },
     extend: {
       fontFamily: {
         sans: ['Inter', 'sans-serif']
