@@ -1,9 +1,9 @@
 <div>
 <img align="right" src="src/assets/logo-nwl-esports.svg" width="330em">
 <h1 align="left"> 🎮 Find Your Duo - Web</h1>
-<p align="left">O Find Your Duo (versão Web) é um projeto que foi desenvolvido durante a semana do evento NLW eSports disponibilizado pela <a href="https://www.rocketseat.com.br/">Rocketseat</a>.</p>
+<p align="left">O Find Your Duo é um projeto que foi desenvolvido durante a semana do evento NLW eSports disponibilizado pela <a href="https://www.rocketseat.com.br/">Rocketseat</a>.</p>
 <p>Esse projeto possui o objetivo de ajudar os players a encontrarem um parceiro ou uma parceira para jogarem juntos os seus jogos favoritos. </p>
-<p>Na versão web do projeto, será onde o player poderá criar novos anúncios, e para isso é necessário que ele abra o formulário através do botão "Publicar anúncio", preencha todos os campos e, após isso, clicar em "Encontrar Duo", para que seu anúncio seja publicado e outros players consigam encontrá-lo utilizando a versão mobile do Find Your Duo.</p>
+<p>Na versão web do Find Your Duo, será onde o player poderá criar novos anúncios, e para isso é necessário que ele abra o formulário através do botão "Publicar anúncio", preencha todos os campos e, após isso, clicar em "Encontrar Duo", para que seu anúncio seja publicado e outros players consigam encontrá-lo utilizando a versão mobile do Find Your Duo.</p>
 </div>
 
 <br>
